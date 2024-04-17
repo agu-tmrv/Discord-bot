@@ -29,7 +29,7 @@ And also specefic commands can be used only in particular channels what i wrote 
 
 People can buy which skin they want.(To see what skins is there, you just click to the link name, and can view the skin) After person buys skin and equip it, it will look like this:
 
-1) equip skin:
+1)equip skin:
    
 ![image](https://github.com/agu-tmrv/Discord-bot/assets/138933725/f8c02e7e-f1d5-4e7c-802b-ea009965a2b6)
 
