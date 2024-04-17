@@ -24,9 +24,9 @@ The bot was developed to meet the specific requirements and desires of the custo
 
 ![image](https://github.com/agu-tmrv/Discord-bot/assets/138933725/6c675826-1ce9-4e4e-a840-dd3904770fa9)
 
-(I added 2 hours cooldown so, they won't spamming the channel)
+(I added a 2-hour cooldown so that users won't spam the channel.)
 
-And also specefic commands can be used only in particular channels what i wrote (by channel ID of discord)
+Moreover, specific commands can only be used in particular channels based on their Discord channel IDs, ensuring proper usage and organization within the server environment.
 
  **Shop Commands:** 
 
