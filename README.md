@@ -1,11 +1,14 @@
 # Discord-bot
 
-Custom Discord bot for League of Legends players with economy system. Written in Python3, using Nextcord library to create bot. Every line which begis with '@bot.slash_command' is a slash command in discord and every has their own functions. For example in /профиль person who registered to bot, can see his nickname which is in his discord,rank, and can see their money. 
-Bot was created by desires of customer.
+**Title:** Custom Discord Bot for League of Legends Players with an Economy System
 
-NOTE: DISCORD_TOKEN stored in other file named '.env' where actual token stores to keep privacy. We must never share this Token to keep privacy not only of BOT, but also keep secure our datas!
+The custom Discord bot designed specifically for League of Legends players comes equipped with an economy system. It is written in Python3, utilizing the Nextcord library to create the bot. Each line starting with '@bot.slash_command' represents a slash command within Discord, each with its own unique functions. For instance, the '/profile' command allows registered users to view their Discord nickname, rank, and current balance.
 
-**Now i want to show some commands:**
+The bot was developed to meet the specific requirements and desires of the customer.
+
+**NOTE:** The Discord token ('DISCORD_TOKEN') is stored in a separate file named '.env' to maintain privacy. It is crucial never to share this token to ensure the privacy and security of not only the bot but also our data.
+
+**Let's explore some of the commands available:**
 
 **Profile command:**
 
