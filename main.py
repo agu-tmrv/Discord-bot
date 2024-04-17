@@ -23,8 +23,8 @@ bot = commands.Bot(command_prefix='/', intents=intents)
 
 # Connect to MySQL database
 conn = mysql.connector.connect(host='127.0.0.1',
-                               user='Agalar',
-                               password='Teymurov_2002',
+                               user='********',
+                               password='********',
                                database='LollyBot')
 cursor = conn.cursor()
 
