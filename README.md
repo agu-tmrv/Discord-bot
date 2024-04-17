@@ -5,6 +5,8 @@ Bot was created by desires of customer.
 
 NOTE: DISCORD_TOKEN stored in other file name '.env' where actual token stores to keep privacy. We must never share this Token to keep privacy not only bot, but also keep secure our profiles!
 
+**Now i want to show some commands:**
+
 **Profile command:**
 
 ![image](https://github.com/agu-tmrv/Discord-bot/assets/138933725/7a9243ce-6b5a-4c20-b28d-f4c4245bc9ed)
