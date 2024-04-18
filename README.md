@@ -38,7 +38,7 @@ SKIN_SHOP:
 
 ![image](https://github.com/agu-tmrv/Discord-bot/assets/138933725/a6443801-0563-4105-aa18-d38f5e33f495)
 
-1)equip skin:
+1)equip theme for profile:
    
 ![image](https://github.com/agu-tmrv/Discord-bot/assets/138933725/f8c02e7e-f1d5-4e7c-802b-ea009965a2b6)
 
