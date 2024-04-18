@@ -34,6 +34,10 @@ Moreover, specific commands can only be used in particular channels based on the
 
 People can buy which skin they want.(To see what skins is there, you just click to the link name, and can view the skin) After person buys skin and equip it, it will look like this:
 
+SKIN_SHOP:
+
+![image](https://github.com/agu-tmrv/Discord-bot/assets/138933725/a6443801-0563-4105-aa18-d38f5e33f495)
+
 1)equip skin:
    
 ![image](https://github.com/agu-tmrv/Discord-bot/assets/138933725/f8c02e7e-f1d5-4e7c-802b-ea009965a2b6)
